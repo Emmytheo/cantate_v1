@@ -1,0 +1,37 @@
+{
+  "title": "Kyrie",
+  "key": "G",
+  "time_signature": "3/4",
+  "tempo": "Andante",
+  "sections": [
+    {
+      "name": "Kyrie Section 1",
+      "parts": {
+        "soprano": [
+          ["s", "l", "s", "-"],
+          ["m", "r", "m", "-"],
+          ["s", "-", "r", "m"],
+          ["m", "s", "l", "-"]
+        ],
+        "alto": [
+          ["d", "tl", "ll", "tl"],
+          ["ll", "sl", "fl", "-"],
+          ["ml", "fl", "sl", "tl"],
+          ["d", "ll", "tl", "ll"]
+        ],
+        "tenor": [
+          ["s", "f", "m", "-"],
+          ["m", "r", "d", "-"],
+          ["r", "m", "f", "s"],
+          ["s", "r", "m", "d"]
+        ],
+        "bass": [
+          ["d", "ll", "tl", "-"],
+          ["sl", "ml", "fl", "-"],
+          ["ml", "fl", "sl", "tl"],
+          ["d", "tl", "sl", "ll"]
+        ]
+      }
+    }
+  ]
+}

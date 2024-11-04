@@ -1,0 +1,37 @@
+{
+  "title": "Agnus Dei",
+  "key": "A",
+  "time_signature": "3/4",
+  "tempo": "Andante",
+  "sections": [
+    {
+      "name": "Agnus Dei Section 1",
+      "parts": {
+        "soprano": [
+          ["d", "tl", "ll", "tl"],
+          ["ll", "sl", "fl", "-"],
+          ["ml", "fl", "sl", "tl"],
+          ["d", "ll", "tl", "ll"]
+        ],
+        "alto": [
+          ["d", "tl", "ll", "-"],
+          ["ll", "sl", "fl", "-"],
+          ["ml", "fl", "sl", "tl"],
+          ["d", "ll", "tl", "ll"]
+        ],
+        "tenor": [
+          ["s", "f", "m", "-"],
+          ["m", "r", "d", "-"],
+          ["r", "m", "f", "s"],
+          ["s", "r", "m", "d"]
+        ],
+        "bass": [
+          ["d", "ll", "tl", "-"],
+          ["sl", "ml", "fl", "-"],
+          ["ml", "fl", "sl", "tl"],
+          ["d", "ll", "tl", "ll"]
+        ]
+      }
+    }
+  ]
+}

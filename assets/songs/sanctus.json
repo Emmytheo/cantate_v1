@@ -1,0 +1,37 @@
+{
+  "title": "Sanctus",
+  "key": "G",
+  "time_signature": "3/4",
+  "tempo": "Moderato",
+  "sections": [
+    {
+      "name": "Sanctus Section 1",
+      "parts": {
+        "soprano": [
+          ["m", "s", "l", "s"],
+          ["f", "m", "r", "s"],
+          ["m", "r", "f", "m"],
+          ["d", "s", "l", "r"]
+        ],
+        "alto": [
+          ["d", "tl", "ll", "-"],
+          ["ll", "sl", "fl", "-"],
+          ["ml", "fl", "sl", "tl"],
+          ["d", "ll", "tl", "ll"]
+        ],
+        "tenor": [
+          ["s", "f", "m", "-"],
+          ["m", "r", "d", "-"],
+          ["r", "m", "f", "s"],
+          ["s", "r", "m", "d"]
+        ],
+        "bass": [
+          ["d", "ll", "tl", "-"],
+          ["sl", "ml", "fl", "-"],
+          ["ml", "fl", "sl", "tl"],
+          ["d", "ll", "tl", "ll"]
+        ]
+      }
+    }
+  ]
+}
